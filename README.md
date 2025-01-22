@@ -22,25 +22,6 @@ Before running the projects, ensure you have the following installed:
 - **SQL Server** or any database provider compatible with EF Core
 - **Visual Studio** or **Visual Studio Code**
 
-## 📜 How to Run
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/abdelwahab-ahmed-shandy/EntityFramework-Mini-Projects.git
-   ```
-2. Navigate to the desired project folder.
-3. Restore dependencies:
-   ```bash
-   dotnet restore
-   ```
-4. Update the database:
-   ```bash
-   dotnet ef database update
-   ```
-5. Run the application:
-   ```bash
-   dotnet run
-   ```
-
 ## 🌟 Features
 - **Code-First Approach**: Building databases directly from C# code.
 - **Migrations**: Seamlessly update the database schema.
