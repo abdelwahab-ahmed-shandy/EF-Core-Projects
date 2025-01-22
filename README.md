@@ -1,6 +1,6 @@
-# EF-Core-Projects
+# EntityFramework Mini Projects
 
-Welcome to the **EF-Core-Projects** repository! This repository is dedicated to small database projects built using **C#** and **Entity Framework (EF) Core** with the Code-First approach.
+Welcome to the **EntityFramework-Mini-Projects** repository! This repository is dedicated to small database projects built using **C#** and **Entity Framework (EF) Core** with the Code-First approach.
 
 ## 🚀 Overview
 The projects in this repository showcase various implementations of EF Core for creating, managing, and interacting with databases programmatically. These examples serve as practical resources for learning and experimenting with EF Core.
@@ -25,7 +25,7 @@ Before running the projects, ensure you have the following installed:
 ## 📜 How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/abdelwahab-ahmed-shandy/EF-Core-Projects.git
+   git clone https://github.com/abdelwahab-ahmed-shandy/EntityFramework-Mini-Projects.git
    ```
 2. Navigate to the desired project folder.
 3. Restore dependencies:
