@@ -44,31 +44,10 @@ To get started with the projects:
 ## 📁 Project Structure
 
 Each folder in this repository represents a standalone project with its own implementation. Inside each folder, you will find:
-
+- **Program.cs**: Before anything else, you should read this file if it exists.
 - **Source Code**: The main C# code for the application.
 - **Database Models**: Entities and configurations for the database.
 - **Instructions**: Detailed steps to run and test the application.
-
----
-
-## 💡 How to Contribute
-
-Contributions are welcome! If you'd like to improve this project:
-
-1. Fork the repository.
-2. Create a new branch for your feature:
-   ```bash
-   git checkout -b feature-name
-   ```
-3. Commit your changes:
-   ```bash
-   git commit -m "Add your message here"
-   ```
-4. Push to the branch:
-   ```bash
-   git push origin feature-name
-   ```
-5. Open a pull request.
 
 ---
 
