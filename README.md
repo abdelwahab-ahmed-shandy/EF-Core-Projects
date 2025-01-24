@@ -76,16 +76,10 @@ Contributions are welcome! If you'd like to improve this project:
 
 If you have any questions or feedback, feel free to reach out:
 
-- **GitHub**: [Abdelwahab Ahmed Shandy](https://github.com/abdelwahab-ahmed-shandy)
-- **LinkedIn**: [Abdelwahab Shandy](https://www.linkedin.com/in/abdelwahab-shandy/)
-- **Email**: YourEmail@domain.com
+[![LinkedIn](https://img.shields.io/badge/Followers-4000-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdelwahab-ahmed-shandy/)
+[![Medium](https://img.shields.io/badge/Followers-25-brightgreen?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@abdelwahabshandy)
+[![GitHub](https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abdelwahab-shandy)
 
 ---
 
-## 🌐 Repository Link
-
-Check out the repository here: [EntityFramework-Mini-Projects](https://github.com/abdelwahab-ahmed-shandy/EntityFramework-Mini-Projects)
-
----
-
-Thank you for visiting! Happy coding! 😊
+If you get bored , Make up a programming problem ").
